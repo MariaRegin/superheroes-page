@@ -1,0 +1,54 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  text-align: center;
+  background-color: grey;
+  color: #fff;
+  margin: 0 auto;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  font-size: 30px;
+  margin: 60px;
+}
+
+span {
+  font-weight: 700;
+  color: #cbe06d;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.card-name {
+  font-size: 25px;
+  color: #eaefd3;
+}
+
+.card-content {
+  border: 3px solid rgb(237, 243, 214);
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.hero-info {
+  color: rgb(253, 247, 247);
+  border: 1px solid white;
+  line-height: 25px;
+  padding: 5px;
+}
+
+.card-image {
+  margin: 0 auto;
+}
