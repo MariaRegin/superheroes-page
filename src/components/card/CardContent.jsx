@@ -1,8 +1,6 @@
 import React from "react";
 import CardRating from "./CardRating";
 import heroesData from "../data/data.json";
-// Лучше использовать fetch в этом случае или импорт?
-// Лучше ли использовать props или через map тоже можно?
 
 function CardContent() {
   return (
